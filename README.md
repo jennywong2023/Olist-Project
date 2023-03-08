@@ -40,5 +40,5 @@ The data is divided into multiple datasets for better understanding and organiza
 # 7. Most Popular & Unpopular Catagories
 ![alt text](xxx)
 
-# 8. Sales Prediction/KPI
+# 8. Sales Prediction & KPI
 ![alt text](xxx)
