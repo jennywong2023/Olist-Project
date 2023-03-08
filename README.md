@@ -5,7 +5,7 @@ We have critically analyse the provided datasets using Business Intelligence too
 
 # Data Schema
 The data is divided into multiple datasets for better understanding and organization. Please refer to the following data schema when working with it:
-
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/db9e299f957ebf21d501a3e56102c849084eaf43/Data%20Schema.png)
 
 
 # Marketing Insight
