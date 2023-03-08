@@ -3,6 +3,11 @@ Olist Store is the largest department store in Brazilian marketplaces. Olist con
 
 We have critically analyse the provided datasets using Business Intelligence tools and provide some marketing findings / recommendations in a report format.
 
+# Data Schema
+The data is divided into multiple datasets for better understanding and organization. Please refer to the following data schema when working with it:
+
+
+
 # Marketing Insight
 1. Olist Sales Overview
 2. Customer Average Income & Spending
