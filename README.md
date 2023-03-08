@@ -20,28 +20,30 @@ The data is divided into multiple datasets for better understanding and organiza
 
 
 # 1. Olist Sales Overview
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/1.%20Sales%20Overview.jpeg)
 
 # 2. Customer Average Income & Spending
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/2.%20Customer%20Average%20Income%20%26%20Spending.jpeg)
 
 # 3. Consumption behavior Analysis
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/3.%20Consumption%20behavior%20Analysis.jpeg)
 
 # 4. Payment & Orders Analysis
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Orders%20Analysis.jpeg)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20Analysis.jpeg)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20II%20Analysis.jpeg)
 
 # 5. Feedback Sentiment Analysis
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/5.%20Feedback%20Sentiment%20Analysis.jpeg)
 
 # 6. Delivery Performance
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
 
 # 7. Most Popular & Unpopular Catagories
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
 
 # 8. Product Sales
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Product%20Sales.jpeg)
 
 # 9. Sales Prediction & KPI
-![alt text](xxx)
+![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
