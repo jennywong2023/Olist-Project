@@ -34,7 +34,18 @@ The majority of Olist users prefer to purchase essential items such as bedding, 
 
 # 4. Payment & Orders Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Orders%20Analysis.jpeg)
+
+Most purchases occur on weekdays during specific timeframes: 10:00 am to 4:00 pm and 8:00 pm to 10:00 pm. The total expenditure per user is concentrated at lower levels, with orders ranging between below $100 and $500. Furthermore, the majority of orders consist of a single product purchase. Overall, Olist's orders reflect a low-frequency and small-amount consumption pattern. Customers tend to make only one purchase and exhibit low levels of loyalty.
+
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20Analysis.jpeg)
+
+
+Recommendations
+- Negotiate with the credit card platform & Boleto
+- Payment installments: Upper Right Corner of the rising trend
+- Purpose of Voucher: Attract Customers Consumption
+- Limit Voucher Usage Upper Limit
+
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20II%20Analysis.jpeg)
 
 # 5. Feedback Sentiment Analysis
