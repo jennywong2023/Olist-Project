@@ -16,11 +16,13 @@ The data is divided into multiple datasets for better understanding and organiza
 5. Feedback Sentiment Analysis
 6. Delivery Performance
 7. Most Popular & Unpopular Catagories
-8. Sales Prediction/KPI
+8. Sales Prediction & KPI
 
 
 # 1. Olist Sales Overview
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/1.%20Sales%20Overview.jpeg)
+
+
 
 # 2. Customer Average Income & Spending
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/2.%20Customer%20Average%20Income%20%26%20Spending.jpeg)
