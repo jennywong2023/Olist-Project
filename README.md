@@ -30,8 +30,7 @@ An analysis of Olist's consumer base reveals that its customers are spread acros
 # 3. Consumption behavior Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/3.%20Consumption%20behavior%20Analysis.jpeg)
 
-Insight:
-Recommendations:
+The majority of Olist users prefer to purchase essential items such as bedding, healthcare products, sports equipment, and computer accessories. In contrast, customers residing in the southeastern coast region are primarily interested in purchasing health and beauty products, alongside souvenir items catering to the tourism industry.
 
 # 4. Payment & Orders Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Orders%20Analysis.jpeg)
@@ -52,3 +51,5 @@ Recommendations:
 
 # 9. Sales Prediction & KPI
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
+Insight:
+Recommendations:
