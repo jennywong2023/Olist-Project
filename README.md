@@ -22,13 +22,16 @@ The data is divided into multiple datasets for better understanding and organiza
 # 1. Olist Sales Overview
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/1.%20Sales%20Overview.jpeg)
 
-
-
 # 2. Customer Average Income & Spending
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/2.%20Customer%20Average%20Income%20%26%20Spending.jpeg)
 
+An analysis of Olist's consumer base reveals that its customers are spread across all states of Brazil, with a higher concentration in the densely populated and economically developed states along the southeastern coast. Notably, the state of Sao Paulo boasts the largest number of Olist users. Furthermore, Olist's customer profile indicates that they tend to belong to the upper middle income bracket.
+
 # 3. Consumption behavior Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/3.%20Consumption%20behavior%20Analysis.jpeg)
+
+Insight:
+Recommendations:
 
 # 4. Payment & Orders Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Orders%20Analysis.jpeg)
