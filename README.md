@@ -28,7 +28,7 @@ The data is divided into multiple datasets for better understanding and organiza
 An analysis of Olist's consumer base reveals that its customers are spread across all states of Brazil, with a higher concentration in the densely populated and economically developed states along the southeastern coast. Notably, the state of Sao Paulo boasts the largest number of Olist users. Furthermore, Olist's customer profile indicates that they tend to belong to the upper middle income bracket.
 
 Recommendations
-- Target the upper income bracket and high spending power to be Olist's customer.
+- Target the upper-income bracket and high spending power to be Olist's customers.
 
 # 3. Consumption behavior Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/3.%20Consumption%20behavior%20Analysis.jpeg)
