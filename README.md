@@ -79,6 +79,5 @@ Recommendation
 
 # 9. Sales Prediction & KPI
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
-Insight:
 Recommendations:
 - Predict that next year's sales revenue and review ratings will increase.
