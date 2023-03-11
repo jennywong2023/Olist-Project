@@ -65,9 +65,6 @@ Recommendations
 
 # 6. Delivery Performance
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
-Recommendations
-- Communicate with the post office to understand why some orders were not shipped.
-- Collaborate with other logistics companies to provide more shipping options for customers, and reduce the average delivery time.
 
 # 7. Most Popular & Unpopular Catagories
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
