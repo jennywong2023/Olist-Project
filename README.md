@@ -65,19 +65,31 @@ Recommendations
 
 # 6. Delivery Performance
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
+About 97% of orders have been delivered. 1.1% of the order is shipped to the logistics company. The average lead time is 12 days.
+
+Recommendations
+- Communicate with the post office to understand why some orders have not been delivered
+- Cooperate with other logistics companies to provide more logistics options for customers and shorten the average delivery day
 
 # 7. Most Popular & Unpopular Catagories
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
+Most of the suppliers are local in Brazil. Top 10 categories with the most types of products all have more than 1,000 products.
+
 Recommendations
-- Introduce more diverse suppliers and types of products from other sources.
+- Introduce more diverse suppliers and types of products from other sources
 
 # 8. Product Sales
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Product%20Sales.jpeg)
+Top 5 categories with the most sales volume are the top 10 categories with the largest number of commodities. It can be seen that the number of commodity types is related to sales. 2 products in each combo set are of similar categories. 
+
 Recommendation
-- Offer bundled pricing promotions: pairing high-selling items with lower-selling items.
-- Provide limited-time, limited-quantity offers.
+- Offer bundled pricing promotions: pairing high-selling items with lower-selling items / the same category item
+- Provide limited-time, limited-quantity offers
+- Re-strengthen sales promotion for similar categories
 
 # 9. Sales Prediction & KPI
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
+Sales continued to rise from 2016 to 2018. Review rating continued to rise from 2016 to 2018.
+
 Recommendations:
 - Predict that next year's sales revenue and review ratings will increase.
