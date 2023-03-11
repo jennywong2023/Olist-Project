@@ -53,14 +53,23 @@ Recommendations
 
 # 6. Delivery Performance
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
+Recommendations
+- Communicate with the post office to understand why some orders were not shipped.
+- Collaborate with other logistics companies to provide more shipping options for customers, and reduce the average delivery time.
 
 # 7. Most Popular & Unpopular Catagories
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
+Recommendations
+- Introduce more diverse suppliers and types of products from other sources.
 
 # 8. Product Sales
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Product%20Sales.jpeg)
+Recommendation
+- Offer bundled pricing promotions: pairing high-selling items with lower-selling items.
+- Provide limited-time, limited-quantity offers.
 
 # 9. Sales Prediction & KPI
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
 Insight:
 Recommendations:
+- Predict that next year's sales revenue and review ratings will increase.
