@@ -44,6 +44,11 @@ Recommendations
 
 Most purchases occur on weekdays during specific timeframes: 10:00 am to 4:00 pm and 8:00 pm to 10:00 pm. The total expenditure per user is concentrated at lower levels, with orders ranging between below $100 and $500. Furthermore, the majority of orders consist of a single product purchase. Overall, Olist's orders reflect a low-frequency and small-amount consumption pattern. Customers tend to make only one purchase and exhibit low levels of loyalty.
 
+Recommendations
+- The strategy for limited offers is to focus on weekdays when there is typically higher spending activity. By doing so, we can maximize the potential of our limited offers and generate greater revenue for Olist.
+- Prioritizing the selling of high-value products. This will not only increase our revenue but also position Olist as a provider of premium products, further enhancing our brand reputation.
+- Consumer Loyalty Enhancement to maintaining and growing Olist's business.
+
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20Analysis.jpeg)
 
 
