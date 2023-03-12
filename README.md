@@ -52,11 +52,6 @@ Recommendations
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20Analysis.jpeg)
 
 
-Recommendations
-- Negotiate with the credit card platform & Boleto
-- Payment installments: Upper Right Corner of the rising trend
-- Purpose of Voucher: Attract Customers Consumption
-- Limit Voucher Usage Upper Limit
 
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20II%20Analysis.jpeg)
 
