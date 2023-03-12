@@ -60,11 +60,11 @@ Recommendations
 
 # 6. Delivery Performance
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
-About 97% of orders have been delivered. 1.1% of the order is shipped to the logistics company. The average lead time is 12 days.
+Fulfilled approximately 97% of all orders, while 1.1% of orders have been dispatched to our logistics partners and are currently pending delivery. The average lead time is currently 12 days.
 
 Recommendations
-- Communicate with the post office to understand why some orders have not been delivered
-- Cooperate with other logistics companies to provide more logistics options for customers and shorten the average delivery day
+- Engaging in communication with the relevant postal authorities to ascertain the cause of the delayed delivery of certain orders. 
+- Suggest partnering with additional logistics companies to offer a wider range of delivery options to our customers. This will enable us to provide quicker delivery times, ultimately improving customer satisfaction.
 
 # 7. Most Popular & Unpopular Catagories
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
