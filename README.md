@@ -68,23 +68,23 @@ Recommendations
 
 # 7. Most Popular & Unpopular Catagories
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/7.%20Most%20Popular%20%26%20Unpopular%20Catagories.jpeg)
-Most of the suppliers are local in Brazil. Top 10 categories with the most types of products all have more than 1,000 products.
+The majority of suppliers operating in Brazil are locally based. It is worth noting that the top 10 categories featuring the highest number of product types each comprise more than 1,000 distinct items.
 
 Recommendations
-- Introduce more diverse suppliers and types of products from other sources
+- To broaden the scope of available options, it is advisable to incorporate a greater variety of suppliers and product types from alternative origins.
 
 # 8. Product Sales
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Product%20Sales.jpeg)
-Top 5 categories with the most sales volume are the top 10 categories with the largest number of commodities. It can be seen that the number of commodity types is related to sales. 2 products in each combo set are of similar categories. 
+Top 5 categories with the most sales volume are the top 10 categories with the largest number of commodities. It can be seen that the number of commodity types is related to sales performance. Additionally, it is worth noting that each combo set typically includes two items from similar product categories.
 
 Recommendation
-- Offer bundled pricing promotions: pairing high-selling items with lower-selling items / the same category item
-- Provide limited-time, limited-quantity offers
-- Re-strengthen sales promotion for similar categories
+- Consider implementing bundled pricing promotions that pair high-selling items with lower-selling or same-category items.
+- Offering limited-time, limited-quantity deals can also create a sense of urgency and encourage purchasing.
+- Beneficial to reinforce sales promotions for similar categories to maximize sales opportunities.
 
 # 9. Sales Prediction & KPI
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/8.%20Sales%20Prediction%20%26%20KPI.jpeg)
-Sales continued to rise from 2016 to 2018. Review rating continued to rise from 2016 to 2018.
+Between 2016 and 2018, both sales and review ratings experienced consistent growth. Based on this trend, it is reasonable to predict that sales revenue and review ratings will continue to increase in the upcoming year.
 
 Recommendations:
-- Predict that next year's sales revenue and review ratings will increase.
+- Given the upward trajectory of both sales revenue and review ratings from 2016 to 2018, it is reasonable to anticipate a continued upward trend in the coming year. As such, it may be prudent to prepare for increased demand and allocate resources accordingly.
