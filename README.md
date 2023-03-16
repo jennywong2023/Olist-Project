@@ -82,6 +82,23 @@ Recommendations
 
 # 5. Feedback Sentiment Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/5.%20Feedback%20Sentiment%20Analysis.jpeg)
+The average review score for our products is 4.07 out of 5, indicating that our customers are generally satisfied with their purchases. However, we should strive to improve our product offerings and customer experience to maintain and improve this score over time.
+
+We have received a total of 83,414 review comments, with 41,707 of those comments containing a review score. This shows that a significant number of our customers are engaged with our products and are willing to share their feedback.
+
+The score distribution from our review comments shows that 57.42% of reviews received a perfect score of 5. While this is positive feedback, we should also focus on improving areas that received lower scores to provide a well-rounded customer experience.
+
+The sentiment ratio of our review comments is neutral, with 40,000 comments expressing a neutral sentiment. This suggests that there is an opportunity to improve our product offerings and customer experience to better meet the needs and expectations of our customers.
+
+Recommendations
+
+- Analyze the feedback provided in the review comments to identify common themes and areas for improvement. This can involve analyzing product features, customer service, and delivery experience to understand customer pain points and areas for improvement.
+
+- Develop a strategy to respond to review comments and engage with customers to demonstrate our commitment to providing excellent customer service. This can involve responding to negative reviews with offers to resolve the issue and thanking customers for positive reviews.
+
+- Implement changes to our product offerings and customer experience based on feedback received in review comments. This can involve improving product features, streamlining the checkout process, and enhancing the overall customer experience to improve customer satisfaction and increase retention.
+
+- Overall, the review data provides valuable insights into our customers' opinions and preferences, and we should leverage this information to drive continuous improvement in our product offerings and customer experience.
 
 
 # 6. Delivery Performance
