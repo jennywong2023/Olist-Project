@@ -72,6 +72,18 @@ Recommendations
 # 5. Feedback Sentiment Analysis
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/5.%20Feedback%20Sentiment%20Analysis.jpeg)
 
+Based on the count of orders and sum of payment value,  with the tops of states in terms of sales volume are SP, RJ, SP. These states represent a significant portion of our customer base and are crucial for our business success.
+
+We have observed a trend in the maximum and minimum payment values in times of credit card installments, which may indicate that customers are more cautious when making larger purchases with installments. This trend should be monitored closely to identify any potential issues or opportunities for improvement.
+
+The top 5 categories in terms of sum of price are health and beauty, watch and gifts, bed bath table, sports and leisure, toys and coumputers accessories. These categories are popular among our customers and represent a significant portion of our sales.
+
+Recommendations
+
+- Develop targeted marketing strategies for the top ten states to maintain and grow our customer base in these regions. This could involve customized promotions or advertising campaigns that resonate with the local culture and preferences.
+
+- Focus on optimizing product offerings in the top ten categories to increase sales and customer satisfaction. This could involve expanding product lines or improving the customer experience for these categories through enhanced search functionality or product recommendations.
+
 # 6. Delivery Performance
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/6.%20Delivery%20Performance.jpeg)
 Fulfilled approximately 97% of all orders, while 1.1% of orders have been dispatched to our logistics partners and are currently pending delivery. The average lead time is currently 12 days.
