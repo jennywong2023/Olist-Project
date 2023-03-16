@@ -51,6 +51,12 @@ Recommendations
 
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20Analysis.jpeg)
 
+Regarding customer payments, credit card transactions represent the primary payment method, accounting for over 70% of total transactions. This data reflects a high level of confidence among consumers in the financial system.
+
+Continuing with credit card payments, the number of installments chosen by customers reflects their ability to consume, and as the value of orders increases, the payment period for installments should also increase accordingly. However, the data indicates that when the number of installments increases, the value of orders tends to decrease, indicating that our customers' purchasing power may not be sufficient.
+
+On the other hand, Boleto payments account for almost 20% of total transactions. Boleto is one of the largest payment service providers in Brazil and has the potential to improve its market share.
+
 
 
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20II%20Analysis.jpeg)
