@@ -57,7 +57,15 @@ Continuing with credit card payments, the number of installments chosen by custo
 
 On the other hand, Boleto payments account for almost 20% of total transactions. Boleto is one of the largest payment service providers in Brazil and has the potential to improve its market share.
 
+In addition, we have observed that customers can use a large number of vouchers in a single order, with some orders having 19 or more vouchers applied, indicating that customers can use vouchers to fully or partially offset the order value without any limit.
 
+Recommendations
+
+- Negotiate with credit card platforms and Boleto to explore potential partnerships or incentives that can encourage customers to use these payment methods more frequently. This could help to diversify our payment options and reduce our reliance on a single payment method.
+
+- Implement an upper limit on voucher usage to avoid excessive discounts that could negatively impact our profitability. This limit can be set based on the average number of vouchers used per order or a fixed percentage of the order value.
+
+- By taking these actions, we can optimize our payment options and improve our profitability while maintaining a positive customer experience.
 
 ![alt text](https://github.com/jennywong2023/Olist-Project/blob/main/4.%20Payment%20II%20Analysis.jpeg)
 
